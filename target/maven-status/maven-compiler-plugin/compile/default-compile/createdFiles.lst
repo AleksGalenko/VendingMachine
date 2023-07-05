@@ -1,0 +1,17 @@
+gskela/vendingmachine/dao/VendingMachinePersistenceException.class
+gskela/vendingmachine/dao/VendingMachineAuditDaoFileImpl.class
+gskela/vendingmachine/ui/UserIOConsoleImpl.class
+gskela/vendingmachine/dao/VendingMachineDaoFileImpl.class
+gskela/vendingmachine/dao/VendingMachineAuditDao.class
+gskela/vendingmachine/controller/VendingMachineController.class
+gskela/vendingmachine/service/VendingMachineServiceLayerImpl.class
+gskela/vendingmachine/dto/Coins.class
+gskela/vendingmachine/dao/VendingMachineDao.class
+gskela/vendingmachine/ui/VendingMachineView.class
+gskela/vendingmachine/dto/Slot.class
+gskela/vendingmachine/dto/Change.class
+gskela/vendingmachine/App.class
+gskela/vendingmachine/ui/UserIO.class
+gskela/vendingmachine/service/NoItemInventoryException.class
+gskela/vendingmachine/service/InsufficientFundsException.class
+gskela/vendingmachine/service/VendingMachineServiceLayer.class

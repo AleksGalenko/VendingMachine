@@ -1,0 +1,8 @@
+A1::Coca-Cola::1.35::10
+A2::Pepsi::1.30::4
+A3::Red-Bull::4.50::6
+A4::Nestea::2.15::9
+A5::Spring water::1.65::16
+A6::Dr. Pepper::1.35::10
+A7::Canada Dry::1.50::0
+DSWDD::WOA::3.00::0

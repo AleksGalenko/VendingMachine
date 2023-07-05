@@ -1,0 +1,17 @@
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/dto/Change.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/dto/Slot.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/service/VendingMachineServiceLayer.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/ui/UserIO.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/controller/VendingMachineController.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/service/InsufficientFundsException.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/dao/VendingMachinePersistenceException.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/ui/VendingMachineView.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/App.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/service/VendingMachineServiceLayerImpl.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/dao/VendingMachineAuditDaoFileImpl.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/dto/Coins.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/dao/VendingMachineDao.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/ui/UserIOConsoleImpl.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/dao/VendingMachineDaoFileImpl.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/dao/VendingMachineAuditDao.java
+/Users/aleksgalenko/Repositories/AleksGalenko/VendingMachine/src/main/java/gskela/vendingmachine/service/NoItemInventoryException.java
